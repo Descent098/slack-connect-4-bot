@@ -33,7 +33,7 @@ $ git push heroku master
 
 Alternatively, you can deploy your own copy with one click using this button:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/wgpsutherland/slack-connect-4-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Descent098/slack-connect-4-bot/)
 
 See the [Heroku documentation](https://devcenter.heroku.com/articles/config-vars) for more info about changing the configuration variables after deployment.
 
